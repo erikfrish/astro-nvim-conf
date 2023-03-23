@@ -1,0 +1,3 @@
+[submodule "kanagawa.nvim"]
+	path = kanagawa.nvim
+	url = https://github.com/rebelot/kanagawa.nvim.git
