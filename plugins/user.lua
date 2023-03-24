@@ -9,4 +9,11 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+
+  "rebelot/kanagawa.nvim",
+  'folke/tokyonight.nvim',
+  "catppuccin/nvim",
+  'petobens/poet-v',
+  'sansyrox/vim-python-virtualenv'
+
 }
